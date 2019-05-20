@@ -3,6 +3,7 @@
 Team members:
 [Javier Orraca](https://javorraca.github.io/Home/)
 [Yiting Fu](https://github.com/Yiting2018)
+[Mark Planas](https://github.com/markplanas)
 
 For our team project, below our proposed analysis:
 

@@ -1,9 +1,9 @@
 # BigQuery EPA Air Quality Analysis
 
-Team members:
-[Javier Orraca](https://javorraca.github.io/Home/)
-[Yiting Fu](https://github.com/Yiting2018)
-[Mark Planas](https://github.com/markplanas)
+**Team members:**
+<br>[Javier Orraca](https://javorraca.github.io/Home/)
+<br>[Yiting Fu](https://github.com/Yiting2018)
+<br>[Mark Planas](https://github.com/markplanas)
 
 For our team project, below our proposed analysis:
 

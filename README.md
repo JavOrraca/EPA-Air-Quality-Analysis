@@ -2,6 +2,11 @@
 
 Team members:
 [Javier Orraca](https://javorraca.github.io/Home/)
+<<<<<<< HEAD
+[Mark Planas](https://markplanas.github.io/Home/)
+=======
+[Yiting Fu](https://github.com/Yiting2018)
+>>>>>>> 5534135b91b749c07f2c97c0eea86ccca31b1e86
 
 For our team project, below our proposed analysis:
 

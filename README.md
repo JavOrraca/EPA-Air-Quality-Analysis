@@ -8,7 +8,7 @@
 For our team project, below our proposed analysis:
 
 * **Dataset**: US Historical Air Quality data from the EPA (338 GB and continuously updated), accessible via BigQuery
-  * Source: [https://www.kaggle.com/epa/epa-historical-air-quality](https://www.kaggle.com/epa/epa-historical-air-quality)
+  * Source: [Air Quality Data Collected at Outdoor Monitors Across the US](https://www.kaggle.com/epa/epa-historical-air-quality)
 * **Deliverables**: Interactive dashboard (via Dash or Bokeh) of a US map, showing how air quality has changed from 1950 to current date
 * **Project**:
   * Analyze air quality summary statistics by year at the US county level

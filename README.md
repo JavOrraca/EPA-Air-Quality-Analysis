@@ -24,13 +24,11 @@
 * **Research Questions**:
   * How US air quality changes through time at the county level;
   * What factors could cause these changes (potentially researching external data sets for understanding "why" US air quality got better or worse, etc.)
-<br>
 
 ## BigQuery Data Accessibility
 
 You can use the BigQuery Python client library to query tables in this dataset in Kernels. Note that methods available in Kernels are limited to querying data. Tables are at `bigquery-public-data.epa_historical_air_quality.[TABLENAME]`.
 
-<br>
 ## Understanding the Data
 
 Variables in the `air_quality_annual_summary` BigQuery table include the following:

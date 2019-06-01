@@ -5,7 +5,7 @@
 <br>[Yiting Fu](https://github.com/Yiting2018)
 <br>[Mark Planas](https://github.com/markplanas)
 
-For our team project, below our proposed analysis:
+## Project Overview
 
 * **Dataset**:
   * US Historical Air Quality data from the EPA (338 GB and continuously updated), accessible via BigQuery
@@ -24,7 +24,6 @@ For our team project, below our proposed analysis:
 * **Research Questions**:
   * How US air quality changes through time at the county level;
   * What factors could cause these changes (potentially researching external data sets for understanding "why" US air quality got better or worse, etc.)
-<br>
 
 ## BigQuery Data Accessibility
 

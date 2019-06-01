@@ -5,7 +5,7 @@
 <br>[Yiting Fu](https://github.com/Yiting2018)
 <br>[Mark Planas](https://github.com/markplanas)
 
-For our team project, below our proposed analysis:
+## Project Overview
 
 * **Dataset**:
   * US Historical Air Quality data from the EPA (338 GB and continuously updated), accessible via BigQuery
